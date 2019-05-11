@@ -26,11 +26,11 @@ The goals / steps of this project are the following:
 [image6]: ./samples/sample_3.jpeg "Traffic Sign 3"
 [image7]: ./samples/sample_4.jpeg "Traffic Sign 4"
 [image8]: ./samples/sample_5.jpeg "Traffic Sign 5"
-[image9]: ./samples/top5_sample1.png "Traffic Sign 1"
-[image10]: ./samples/top5_sample2.png "Traffic Sign 2"
-[image11]: ./samples/top5_sample3.png "Traffic Sign 3"
-[image12]: ./samples/top5_sample4.png "Traffic Sign 4"
-[image13]: ./samples/top5_sample5.png "Traffic Sign 5"
+[image9]: ./report_files/top5_sample1.png "Traffic Sign 1"
+[image10]: ./report_files/top5_sample2.png "Traffic Sign 2"
+[image11]: ./report_files/top5_sample3.png "Traffic Sign 3"
+[image12]: ./report_files/top5_sample4.png "Traffic Sign 4"
+[image13]: ./report_files/top5_sample5.png "Traffic Sign 5"
 
 
 ## Rubric Points
